@@ -17,6 +17,4 @@ A **Flutter** application using **Bloc** for state management to check **real-ti
 - **Bloc** – State management  
 - **Weather API** – Real-time weather data  
 
----
 
-## 📂 Project Structure
